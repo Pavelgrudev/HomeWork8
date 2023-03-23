@@ -11,6 +11,7 @@ public class Main {
 
 
     public static void task1() {
+        System.out.println("Задание№1");
         int[] arr1 = {1, 2, 3};
         double[] arr2 = {1.57, 7.654, 9.986};
         char[] arr3 = {'a', 'b', 'c', 'd', 'e'};
@@ -18,6 +19,7 @@ public class Main {
 
 
     public static void task2() {
+        System.out.println("Задание№2");
         int[] arr1 = {1, 2, 3};
         double[] arr2 = {1.57, 7.654, 9.986};
         char[] arr3 = {'a', 'b', 'c', 'd', 'e'};
@@ -47,6 +49,7 @@ public class Main {
     }
 
     public static void task3() {
+        System.out.println("Задание№3");
 
         int[] arr1 = {1, 2, 3};
         double[] arr2 = {1.57, 7.654, 9.986};
@@ -75,6 +78,7 @@ public class Main {
                 System.out.print(" , ");}}
         System.out.println();}
     public static void task4() {
+        System.out.println("Задание№4");
         int[] arr1 = {1, 2, 3};
         for (int i = 0; i < arr1.length; i++)
             if (arr1[i] % 2 != 0) {
